@@ -10,3 +10,55 @@
   color: aliceblue;
   cursor: pointer;
 }
+
+.button-2 {
+  background: transparent;
+  border: 1px solid var(--primary-color);
+  box-sizing: border-box;
+  padding: 0.65rem 2rem;
+}
+
+.button-2:hover {
+  background: var(--secondary-color);
+  color: aliceblue;
+  cursor: pointer;
+}
+
+.button-3 {
+  background: transparent;
+  border: 1px solid var(--primary-color);
+  box-sizing: border-box;
+  padding: 0.65rem 2rem;
+}
+
+.button-3:hover {
+  background: var(--secondary-color);
+  color: aliceblue;
+  cursor: pointer;
+}
+
+.button-4 {
+  background: transparent;
+  border: 1px solid var(--primary-color);
+  box-sizing: border-box;
+  padding: 0.65rem 2rem;
+}
+
+.button-4:hover {
+  background: var(--secondary-color);
+  color: aliceblue;
+  cursor: pointer;
+}
+
+.button-5 {
+  background: transparent;
+  border: 1px solid var(--primary-color);
+  box-sizing: border-box;
+  padding: 0.65rem 2rem;
+}
+
+.button-5:hover {
+  background: var(--secondary-color);
+  color: aliceblue;
+  cursor: pointer;
+}

@@ -18,6 +18,10 @@ export default function Home() {
         </h1>
         <div className="button-container">
           <button className="button-1">Button 001</button>
+          <button className="button-2">Button 002</button>
+          <button className="button-3">Button 003</button>
+          <button className="button-4">Button 004</button>
+          <button className="button-5">Button 005</button>
         </div>
       </main>
 
